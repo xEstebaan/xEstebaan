@@ -21,7 +21,6 @@
 
 ### 🗄️ Databases
 
-![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 
 ### 🛠️ Tools & Platforms
